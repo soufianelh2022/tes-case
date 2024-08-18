@@ -1,0 +1,7 @@
+{
+    "adKeys": {
+        "interstitialAdUnitId": "YOUR_INTERSTITIAL_AD_UNIT_ID",
+        "rewardedAdUnitId": "254a9fa2737138d9",
+        "bannerAdUnitId": "a467c6c3f936f5b7"
+    }
+}
